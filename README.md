@@ -13,3 +13,6 @@ _Меня зовут Максим, мне 25 лет и я начинающий �
 
 ## Связь со мной:
 <a href="https://t.me/yakushenkovm" target="_blank"><img src="https://opt-1453117.ssl.1c-bitrix-cdn.ru/upload/medialibrary/5c8/5c85af4c09d926ea5b7fe671d9a313b9.png?163994233254026" alt="Написать в Телеграм" width="50" height="50"></a> <a href="mailto:maxim@yakushenkov.ru" target="_blank"><img src="https://iwiki.su/wp-content/uploads/2014/04/mail_icon_by_cortexcerebri-d90ks8v.png" alt="Написать на почту" width="50" height="50"></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimYakushenkov)]()  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksimYakushenkov&theme=vue&show_icons=true)]()
